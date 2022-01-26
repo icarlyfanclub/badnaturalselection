@@ -9,9 +9,9 @@ heeeeeeeeeeey sexy lady op op op oppa gangnam style B) get owned bibarel
 
 made with LÖVE
 
-to run it you have to:
+to run it you have to do these very complicated steps:
 
-1 - have löve2d installed (https://love2d.org/)
+1 - have löve2d installed (you can download it here https://love2d.org/)
 
 2 - download the project files
 
